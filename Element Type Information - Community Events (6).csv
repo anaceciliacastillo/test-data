@@ -1,0 +1,16 @@
+CORE ATTRIBUTES,,,,,,
+name,hours_of_operation,address,distance_from_loyola,travel_time,cost,permanent
+Knights of King Arthur,2/25/2025 - 7:00am,Jefferson Ave & Magazine St,0.6 mi,"- Car: 3 min
+- Walking: 12 min
+- Bike: 4 min",Free,FALSE
+Krewe of Endymion,3/1/2025 - 4:15pm,Orleans Ave & City Park Ave,3.6 mi,"- Car: 11 min
+- Walking: 1 hr
+- Bike: 23 min",Free,FALSE
+Krewe of Iris,3/1/2025 - 11:00am,Napolean Ave & Magazine St,1.0 mi,"- Car: 5 min
+- Walking: 18 min
+- Bike: 7 min",Free,FALSE
+Krewe of Tucks,3/1/2025 - 12:00:00,Napolean Ave & Magazine St,1.0 mi,"- Car: 5 min
+- Walking: 18 min
+- Bike: 7 min
+",Free,FALSE
+New Orleans Entrepeneur Week,3/24/2025-3/29/2025 - All day,"6363 St Charles Ave, New Orleans, LA 70118",On Loyola Campus,null,Free,FALSE
