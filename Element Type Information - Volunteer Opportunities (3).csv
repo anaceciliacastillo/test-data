@@ -1,0 +1,58 @@
+CORE ATTRIBUTES,,,,,,,,,,,,
+name,hours_of_operation,address,distance_from_loyola,travel_time,,description,ongoing,requirements,contact_info,coordinate_location,event_date,permanent
+Grace at the green light,"Monday: 6:30–7:30 AM
+Tuesday: 6:30–7:30 AM
+Wednesday: 6:30–7:30 AM
+Thursday: 6:30–7:30 AM
+Friday: 6:30–7:30 AM
+Saturday: 6:30–7:30 AM
+Sunday: 6:30–7:30 AM
+","400 N Rampart St, New Orleans, LA 70112",4.4 miles,"- car: 14 mins
+- Walking: 1 hr 33 mins
+- Bike: 29 mins",,Serve breakfast to individuals experiencing homelessness in downtown New Orleans.,TRUE,"- age: 16+
+- skills: None Required
+- notes: Respectful Behavior and Punctuality are encouraged ","- phone: +1 504 239 4544
+- email: sarah@graceatthegreenlight.org","29.951237748003358, -90.07130031066596",null,true 
+Nola Sprout,"Monday: 8 AM - 12 PM
+Tuesday: 8 AM - 12 PM
+Wednesday: 8 AM - 12 PM
+Thursday: 8 AM - 12 PM
+Friday: 8 AM - 12 PM
+Saturday: closed
+Sunday: closed
+","300 N Broad St, New Orleans, LA 70119",3.5 miles,"- car: 10 mins
+- Walking: 1 hr 33 mins
+- Bike: 30 mins",,"Assist in community farming, soil prep, harvesting, and farmer support at the central garden hub.",TRUE,"- age: 14+
+- skills: Basic Physical Ability
+- notes: Wear closed-toe shoes and bring water.","- phone: 504-512-6646
+- email: info@sproutnola.org","29.966618853144766, -90.08446641709757",null,true 
+The Fly Cleanup (Audahon Riverview),Cleanups are Scheduled as needed ,"6500 Magazine St, New Orleans, LA 70118​",1.4 miles,"- car: 5 mins
+- Walking: 20 mins
+- Bike: 7 mins",,Participate in cleanup events at Audubon Riverview Park along the Mississippi River.,FALSE,"- age: all ages
+- skills: none
+- notes: Gloves and trash bags provided",- phone: (504) 861-2537,"29.922879, -90.129967",null,true 
+Green Light New Orleans,"Monday: closed
+Tuesday: 9 AM - 12:30 PM and 1 PM - 5 PM
+Wednesday: 9 AM - 12:30 PM and 1 PM - 5 PM
+Thursday: closed
+Friday: 9 AM - 12:30 PM and 1 PM - 5 PM
+Saturday: 9 AM - 12:30 PM and 1 PM - 5 PM
+Sunday: closed
+","8203 Jeannette St, New Orleans, LA 70118​",1.9 miles,"- car: 7 mins
+- Walking: 35 mins
+- Bike: 10 mins",,Install rain barrels and energy-efficient light bulbs for local residents to promote sustainability.,TRUE,"- age: 16+
+- skills: Comfort with Basic Tools/Powertools
+- notes: Volunteers drive to homes with provided maps; training session required before first shift.",- phone: 504-324-2429,"29.943241, -90.128282",null,true 
+Second Harvest Food Bank,"Monday: 7:30 AM - 4 PM
+Tuesday: 7:30 AM - 4 PM
+Wednesday: 7:30 AM - 4 PM
+Thursday: 7:30 AM - 4 PM
+Friday: 7:30 AM - 4 PM
+Saturday: closed
+Sunday: closed
+","700 Edwards Ave, New Orleans, LA 70123",6.3 miles,"- car: 14 mins
+- Walking: 2 hr 23 mins
+- Bike: 33 mins",,Sort and package donated food for delivery to food-insecure families across Southern Louisiana.,TRUE,"- age: 9+ (with adult), 16+ (solo)
+- skills: Ability to stand and lift up to 15 lbs
+- notes: Closed-toe shoes required; safety orientation provided","- phone: 504.734.1322
+- email: help@no-hunger.org","29.957500, -90.190867​",null,true 
